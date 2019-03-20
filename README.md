@@ -1,5 +1,5 @@
 # chat
-Simpl chat application using java
+Simple chat application using java
 
 Usage:
 * First you should identify yourself by typing ' IAM <your_username> '
